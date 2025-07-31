@@ -15,17 +15,16 @@ Welcome to my GitHub profile! I'm a [your profession/role] passionate about [sho
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorVaquero&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVaquero&layout=compact)
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [Portfolio Website](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [Portfolio Website](https://victorvaquero.net)
+- 📧 Email: victorvaquero.etereot@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-vaquero-martinez-8633b916b/)
 
 ---
 
