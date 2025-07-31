@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Victor!
+# Hi, I'm Victor
 
-Welcome to my GitHub profile! I'm a [your profession/role] passionate about [short list: e.g., web development, open-source, AI].
+I'm a software developer with a focus on building reliable, scalable applications using **Python** and **JavaScript**. I enjoy solving complex problems, working on open-source projects, and writing clean, maintainable code. My experience spans data pipelines, backend systems, APIs, front-end interfaces, etc — from quick prototypes to production-grade platforms.
 
 ---
 
